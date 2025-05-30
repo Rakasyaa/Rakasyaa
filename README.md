@@ -61,8 +61,8 @@
 
 <!-- Visitor Count -->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Rakasyaa&icon=3&color=1)](https://visitcount.itsvg.in)
+
+![Visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=visitors&query=value&url=https://api.countapi.xyz/hit/github/Rakasyaa)
 
 </div>
 
