@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:7b2cbf,100:f72585&height=220&section=header&text=Rakasya%20Yoga&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Robotics%20%7C%20Creative%20Tech&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:7b2cbf,100:f72585&height=220&section=header&text=Rakasya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Robotics%20%7C%20Creative%20Tech&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
@@ -75,14 +75,6 @@
 
 <br>
 
-<!-- ======================= FUN IMAGE ======================= -->
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF"/>
-
-</div>
-
 ---
 
 <!-- ======================= PROJECTS ======================= -->
@@ -126,15 +118,11 @@
 <!-- ======================= CONTRIBUTION SNAKE ======================= -->
 
 <div align="center">
+  
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakasyaa/Rakasyaa/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakasyaa/Rakasyaa/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/Rakasyaa/Rakasyaa/output/github-snake.svg" width="90%" alt="GitHub Contribution Snake">
-</picture>
-
+<img src="https://raw.githubusercontent.com/Rakasyaa/Rakasyaa/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -168,7 +156,12 @@
 </div>
 
 <br>
+<!-- Banner -->
+<div align="center">
 
+  ![image alt](https://github.com/Rakasyaa/Rakasyaa/blob/3a6843e3cc9288f2f0b2640d7a7247549413cc6f/2024-12-15_12-53-52.png)
+
+</div>
 <!-- ======================= FOOTER ======================= -->
 
 <div align="center">
