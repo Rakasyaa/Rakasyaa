@@ -1,19 +1,18 @@
 <!-- ======================= HERO ======================= -->
 
 <div align="center">
-
+<!-- wave nama -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:7b2cbf,100:f72585&height=220&section=header&text=Rakasya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Robotics%20%7C%20Creative%20Tech&descAlignY=58&descSize=18" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=F72585&center=true&vCenter=true&width=650&lines=Informatics+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Robotics+Enthusiast+%F0%9F%A4%96;Building+Things+That+Actually+Work+%F0%9F%9A%80" />
-
-<br><br>
-
+<!-- akun -->
 <img src="https://github.com/Rakasyaa.png" width="120" style="border-radius:50%;" alt="Rakasya"/>
 
+<br>
+<!-- teks -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=F72585&center=true&vCenter=true&width=650&lines=Informatics+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Robotics+Enthusiast+%F0%9F%A4%96;Building+Things+That+Actually+Work+%F0%9F%9A%80" />
 <br><br>
 
+<!-- stat -->
 <a href="https://github.com/Rakasyaa">
 <img src="https://img.shields.io/github/followers/Rakasyaa?style=for-the-badge&logo=github&label=Followers&color=7b2cbf" />
 </a>
@@ -21,6 +20,9 @@
 <a href="https://github.com/Rakasyaa?tab=repositories">
 <img src="https://img.shields.io/github/stars/Rakasyaa?style=for-the-badge&logo=github&label=Stars&color=f72585" />
 </a>
+
+<a href="https://github.com/Rakasyaa?tab=repositories">
+<img src="https://komarev.com/ghpvc/?username=Rakasyaa&style=for-the-badge&color=f72585&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -58,53 +60,8 @@
 
 </div>
 
----
-
-<!-- ======================= CURRENTLY ======================= -->
-
-<div align="center">
-
-## 🔭 Currently Playing With
-
-<img src="https://img.shields.io/badge/🌐%20Web%20Development-7b2cbf?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤖%20Robotics-f72585?style=for-the-badge" />
-<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-4361ee?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎨%20UI%2FUX-3a0ca3?style=for-the-badge" />
-
-</div>
-
-<br>
-
----
-
-<!-- ======================= PROJECTS ======================= -->
-
-<div align="center">
-
-## 🚀 Things I've Built
-
-<a href="https://github.com/Rakasyaa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakasyaa&repo=RACER-Robotic&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/Rakasyaa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakasyaa&repo=inventory&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Rakasyaa&limit=5&theme=radical&combine_all_yearly_contributions=true" width="80%" alt="Contributor Stats"/>
-
-</div>
-
----
-
 <!-- ======================= STREAK ======================= -->
-
+---
 <div align="center">
 
 ## 🔥 Coding Streak
@@ -166,6 +123,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:7b2cbf,100:1a1a2e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:51160B,25:741F0E,50:953E2F,75:B66D53,100:4E2D1E&height=140&section=footer" width="100%"/>
 
 </div>
